@@ -1,0 +1,224 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+.main-sektion{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #ffff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+ /*Main content sektion */
+.main-content-sektion{
+    padding: 100px 90px;
+}
+.main-content-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+ /*Ebout me sektion */
+.ebout-me-sektion{
+    margin: 0 0 40px 0;  
+}
+.about-me-profession{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin: 0 0 20px 0;
+}
+.about-me-neme{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    margin: 0 0 25px 0;
+}
+.about-me-description{
+    width: 400px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+ /*My projects sektion */
+.my-projects-sektion{
+    margin-bottom: 50px;
+}
+.my-projects-list{
+    padding: 0 0 0 17px;
+}
+.my-projects-iten{
+    color: #000; 
+    font-weight: bold; 
+}
+.my-projects-link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;  
+}
+.my-projects-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 5px;
+}
+.my-projects-bracket{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000; 
+}
+ /*My work experionce sektion */
+.my-work-experionce{
+    margin: 0 15px 0 0;
+}
+.my-work-experionce-company{
+    color: hsl(133, 72%, 18%);
+}
+.my-work-experionce-position{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 0 10px 0;
+}
+.my-work-experionce-period{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin: 0 0 10px 0;
+}
+
+/*Languages*/
+.my-languages{
+    margin: 0 15px 0 0;
+}
+.my-languages-duties{
+    padding: 0 0 0 18px;
+}
+.my-langusges-duty{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+ /*My education sektion */
+.my-education{
+    margin: 0 15px 0 0;
+}
+.my-education-university{
+    color: hsl(133, 72%, 18%);
+}
+.my-education-position{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin: 0 0 10px 0;
+}
+.my-education-period{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin: 0 0 10px 0;
+}
+.my-education-divider{
+    color: #000;
+}
+ /* Sideber sektion */
+
+.sideber-sektion{
+    background-color: rgb(172, 198, 144);
+    width: 370px;
+    padding: 40px 0px;
+}
+.contacts-sektion{
+    margin: 50px 0 0 40px;
+}
+
+.tech-skills-sektion{
+    margin: 50px 0 0 40px;
+}
+
+.soft-skills-sektion{
+    margin: 50px 0 0 40px;
+}
+.sidebar-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #ffff;
+    margin-bottom: 10px;
+}
+/* Contacts sektion */
+.contacts-sektion-title{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffff;
+    margin-right: 7px;
+}
+.contacts-sektion-link{
+    color: #565e6a;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+/* Tech skils sektion */
+.tech-skills-list{
+    padding: 0 0 0 17px;
+}
+.tech-skills-iten{
+    color: hsl(133, 72%, 18%);
+}
+.tech-skills-iten-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffff;
+}
+
+/* Soft skils sektion */
+.soft-skills-list{
+    padding: 0 0 0 17px;
+}
+.soft-skills-iten{
+    color: hsl(133, 72%, 18%);
+}
+.soft-skills-iten-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffff;
+}
+
+
+
